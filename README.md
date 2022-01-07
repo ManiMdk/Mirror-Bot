@@ -66,7 +66,7 @@ Turn On RECURSIVE_SEARCH In Config -RECURSIVE_SEARCH = "True"
 - Features added from [Sreeraj V R's](https://github.com/SVR666) repo 
     And Anas [repo here](https://github.com/breakdowns/slam-mirrorbot) Repo (Archived)
 - Thanks To Ken For Base Repo 
-    checkout his [repo here](https://github.com/KenHV/Mirror-Bot)
+    checkout his [repo here](https://github.com/ManiMdk/Mirror-Bot)
       
 
 ````
